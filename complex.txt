@@ -1,0 +1,13 @@
+# color names
+
+blue
+yellow
+green
+red
+
+#color hexcodes
+
+fcba03
+03fc0b
+fc0303
+035afc
